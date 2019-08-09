@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Kristina SHkatulova](https://up.htmlacademy.ru/ecmascript/9/user/603197).
-* Наставник: `Неизвестно`.
+* Наставник: `Нет наставника`.
 
 ---
 
